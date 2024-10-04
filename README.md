@@ -1,7 +1,7 @@
 
 ![Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQEFzUm19n2LSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725087156315?e=1733356800&v=beta&t=GbVzlsMAnDu4LT2tkR-Za8X2YSmw-JXpoegUSW9uQfc)
-### Hi there 👋, Md Humayun Kabir
-#### Data Analyst
+### Hi there 👋, 
+
 I am Professional Data Analyst. With a proven track record in designing custom solutions, I specialize in developing comprehensive sales Dashboards, insightful sales reports, and strategic analyses covering Google Analytics-4, Google Search Console Report, Google Ad Analysis, YouTube, Twitter, Linkedin, Facebook, Ad Performance Analysis & any business domain e.g. Composite Garments, Heathcare, Hotel & Tourism many more....
 
 Experience the difference with fast, accurate, and intuitive data solutions meticulously crafted for your business needs. Let's embark on a journey to transform your data into actionable insights that drive growth and efficiency.
