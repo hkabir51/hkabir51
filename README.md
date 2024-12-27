@@ -8,7 +8,7 @@ Experience the difference with fast, accurate, and intuitive data solutions meti
 
 Skills: Excel | Google Sheets | Looker Studio | Power BI | Python | SQL
 
-- 🔭 I’m currently working on Radiance Group 
+- 🔭 I’m currently working on Data Analytics Project 
 - 👯 I’m looking to collaborate on Github Project 
 - 💬 Ask me about Data Analytics 
 
